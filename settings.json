@@ -1,4 +1,5 @@
-pp.updateChannel": "Insiders",
+}
+	pp.updateChannel": "Insiders",
     "terminal.integrated.cwd": "${fileDirname}",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
