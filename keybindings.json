@@ -1,0 +1,13 @@
+// Place your key bindings in this file to override the defaults
+[
+    { 
+        "key": "ctrl+tab",          
+        "command": "workbench.view.explorer",
+        "when": "viewContainer.workbench.view.explorer.enabled" 
+    },
+    { 
+        "key": "ctrl+tab",          
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "!editorFocus"
+    },
+]
