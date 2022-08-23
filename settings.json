@@ -1,0 +1,22 @@
+pp.updateChannel": "Insiders",
+    "terminal.integrated.cwd": "${fileDirname}",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "workbench.colorCustomizations": {
+        "terminal.foreground" : "#CC11F1",
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "editor.fontFamily": "\"Source Code Pro\"",
+    "editor.fontSize": 16,
+    "editor.autoClosingBrackets": "always",
+    "editor.cursorWidth": 1,
+    "editor.padding.top": 1,
+    "editor.letterSpacing": 1,
+    "editor.autoClosingQuotes": "always",
+    "workbench.colorTheme": "Just Black",
+    "terminal.integrated.gpuAcceleration": "off",
+    "vscode_vibrancy.opacity": 0,
+    "vscode_vibrancy.type": "acrylic",
+    "glassit.alpha": 220
+}
